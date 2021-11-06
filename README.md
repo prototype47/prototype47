@@ -31,7 +31,6 @@
 <br>
 <p align="left">
     <h3>😁Also Discover Me at&nbsp;:</h3>
-    <hr>
     <a href="https://www.hackerrank.com/prototype47" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
 </p>
 <hr>
