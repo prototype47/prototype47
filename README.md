@@ -36,4 +36,4 @@
     <a href="https://www.hackerrank.com/prototype47" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
 </p>
 <hr>
-<img src="https://visitor-badge.glitch.me/badge?page_id=protoype47.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors">
+<img src="https://visitor-badge.glitch.me/badge?page_id=protoype47.visitor-badge&left_color=red&right_color=black&left_text=HelloVisitors">
