@@ -1,8 +1,8 @@
 <h1 align="center">Hi there<img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px">,&nbsp;I'm <a href="https://www.linkedin.com/in/anand-soni-63a924202">Anand Soni</a></h1>
-<p align="center">
+<div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Web+Developer;Coder;Passionate+Learner;"> 
     <a href="https://git.io/typing-svg">
-</p>
+</div>
 <div align="center">
     <a href="https://www.instagram.com/obviously.not.anand/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/anand-soni-63a924202" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -35,5 +35,16 @@
     <h3>😁Also Discover Me at&nbsp;:</h3>
     <a href="https://www.hackerrank.com/prototype47" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
 </p>
+<hr>
+<details>
+    <summary>My Stats 📊</summary>
+    <br>
+    <div align="left">
+        <img src="https://github-readme-stats.vercel.app/api?username=prototype47&show_icons=true&theme=dark" alt="stats">
+    </div>
+    <div align="left">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prototype47&count_private=true&line_height=40&theme=dark&layout=compact" alt="stats">
+    </div>
+</details>
 <hr>
 <img src="https://visitor-badge.glitch.me/badge?page_id=protoype47.visitor-badge&left_color=red&right_color=black&left_text=HelloVisitors">
