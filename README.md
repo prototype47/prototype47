@@ -17,7 +17,7 @@
     - 📫 How to reach me : <a href="https://www.gmail.com" target="_blank">aanandsoni50@gmail.com</a><br>
     - ⚡ Fun fact: I ❤ playing Basketball🏀 <br>
 </p>
-<p align="left">
+<div align="left">
     <h3><span width="20px">👩‍💻</span>Languages and Tools&nbsp;:</h3>
     <hr>
     <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
@@ -28,13 +28,8 @@
     <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
     <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
     <img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-</p>
-<br>
-<br>
-<div align="left">
-    <h3>😁Also Discover Me at&nbsp;:</h3>
-    <a href="https://www.hackerrank.com/prototype47" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
 </div>
+<br>
 <hr>
 <details>
     <summary>My Stats 📊</summary>
@@ -42,9 +37,15 @@
     <div align="left">
         <img src="https://github-readme-stats.vercel.app/api?username=prototype47&show_icons=true&theme=dark" alt="stats">
     </div>
+    <br>
     <div align="left">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prototype47&count_private=true&line_height=40&theme=dark&layout=compact" alt="stats">
     </div>
 </details>
+<hr>
+<div align="left">
+    <h3>😁Also Discover Me at&nbsp;:</h3>
+    <a href="https://www.hackerrank.com/prototype47" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+</div>
 <hr>
 <img src="https://visitor-badge.glitch.me/badge?page_id=protoype47.visitor-badge&left_color=red&right_color=black&left_text=HelloVisitors">
