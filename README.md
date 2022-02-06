@@ -1,6 +1,6 @@
 <h1 align="center"><em>Hi there</em><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px"><em>,&nbsp;I'm</em><a href="https://www.linkedin.com/in/anand-soni-63a924202"><em>&nbsp;Anand Soni</em></a></h1>
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Web+Developer;Coder;Passionate+Learner;"> 
+<div>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Web+Developer;Coder;Learner;"> 
     <a href="https://git.io/typing-svg">
 </div>
 <div align="center">
