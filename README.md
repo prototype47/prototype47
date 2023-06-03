@@ -10,7 +10,7 @@
 <p align="left">
     <h3>📌About Me&nbsp;:</h3>
     <hr>
-    <img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="gif" width="300px" height="auto">
+    <img align="right" src="https://user-images.githubusercontent.com/76837650/236640087-2812f899-12c2-4652-aca2-1a84bd0b951d.gif" alt="gif" width="300px" height="auto">
     - 🔭 I’m currently pursuing my BTech <br>
     - 🌱 I’m currently learning everything🤣 <br>
     - 💬 Ask me about anything related to my Domain <br>
