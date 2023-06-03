@@ -37,7 +37,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react
     <summary>My Stats 📊</summary>
     <br>
     <div align="center">
-        <img src = "https://github-readme-stats.vercel.app/api?username=prototype47&show_icons=true&theme=bear" width = 400> &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src = "https://github-readme-stats.vercel.app/api?username=prototype47&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" width = 400> &nbsp;&nbsp;&nbsp;&nbsp;
         <img src = "https://github-readme-streak-stats.herokuapp.com?user=prototype47&theme=dark&hide_border=false" width = 400 alt="stats"> &nbsp;
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prototype47&count_private=true&line_height=40&theme=dark&layout=compact" alt="stats"> 
     </div>
@@ -49,3 +49,4 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react
     <a href="https://www.hackerrank.com/prototype47" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
 </div>
 <hr>
+<img src="https://hits.dwyl.com/prototype47/Anand.svg?style=flat-square" alt="prototype47-Visitors">
